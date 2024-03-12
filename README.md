@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Twahafa M Mwaetako</h1>
-<h3 align="center">I am Twahafa Mwaetako, a soul of code and sound, In the realm of digital art, I am profoundly bound. A third-year voyage through the realms of creation, A passionate seeker, in every iteration. I craft lines of logic, in languages unknown, Weaving worlds of software, in a realm of my own. As a UX designer, I mold the user's delight, Shaping interfaces, where their dreams take flight. In the vast landscape of life's sweet serenade, I am a musician, melodies in every shade. From the land of the brave, Namibia, I hail, Where the spirit of innovation will ever prevail. So come, join my journey, through this poetic embrace, Where I blend tech and art, leaving a lasting trace. I am Twahafa Mwaetako, and this is my song, A harmonious symphony, where I truly belong.</h3>
+<h3 align="center">I am Twahafa Mwaetako, Jesus Loves You</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=twahafamwaetako&label=Profile%20views&color=0e75b6&style=flat" alt="twahafamwaetako" /> </p>
 
